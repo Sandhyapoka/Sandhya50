@@ -1,5 +1,8 @@
 # Sandhya50
 
+![passportpicture](https://github.com/Sandhyapoka/Sandhya50/assets/110318592/7d0bb868-ffc0-4d89-b98a-b55e04d7882c)
+
+
 ![bannerImage](https://github.com/Sandhyapoka/Sandhya50/assets/110318592/b1251d64-4973-4eb2-8c8a-696c77f42756)
 
 
@@ -10,6 +13,6 @@
 
 ![npteljava](https://github.com/Sandhyapoka/Sandhya50/assets/110318592/4828d116-e1fe-412e-9d2d-e2dc58e9e5c9)
 
-![passportpicture](https://github.com/Sandhyapoka/Sandhya50/assets/110318592/7d0bb868-ffc0-4d89-b98a-b55e04d7882c)
+
 
 
