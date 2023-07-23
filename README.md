@@ -7,3 +7,6 @@
 
 
 ![microsoft](https://github.com/Sandhyapoka/Sandhya50/assets/110318592/63f9190e-fe18-4a96-8722-207d16a429ea)
+
+![npteljava](https://github.com/Sandhyapoka/Sandhya50/assets/110318592/4828d116-e1fe-412e-9d2d-e2dc58e9e5c9)
+
