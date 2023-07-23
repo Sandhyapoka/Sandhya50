@@ -6,3 +6,4 @@
 ![internship](https://github.com/Sandhyapoka/Sandhya50/assets/110318592/72c5c0f4-86d3-49c0-8e59-1e4df8ab23ba)
 
 
+![microsoft](https://github.com/Sandhyapoka/Sandhya50/assets/110318592/63f9190e-fe18-4a96-8722-207d16a429ea)
